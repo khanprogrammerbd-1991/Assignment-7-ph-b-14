@@ -1,4 +1,4 @@
-// src/app/category/[slug]/loading.jsx
+
 export default function CategoryLoading() {
   return (
     <div className="max-w-6xl mx-auto px-4 py-10 animate-pulse space-y-8">
