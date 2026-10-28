@@ -1,4 +1,4 @@
-// src/components/CategoryClient.jsx
+
 "using client"; // (or normal component since it manages local sort state)
 "use client";
 
